@@ -43,11 +43,11 @@
 		"@types/request-promise-native": "~1.0.15",
 		"@typescript-eslint/parser": "~5.45",
 		"eslint-plugin-n8n-nodes-base": "^1.11.0",
-		"gulp": "^4.0.2",
+		"gulp": "^5.0.1",
 		"prettier": "^2.7.1",
 		"typescript": "~4.8.4"
 	},
 	"dependencies": {
-		"@google-cloud/dialogflow": "^5.7.0"
+		"@google-cloud/dialogflow": "^7.2.0"
 	}
 }
